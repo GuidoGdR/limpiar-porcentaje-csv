@@ -3,7 +3,7 @@
 
  <p>
 
-Script para eliminar el % y hacerle un /100 al numero en cuestion.
+Script para en limpiar un archivo csv eliminando el % y hacerle un /100 al numero en cuestion que lo tenga.
 
  </p>
  
